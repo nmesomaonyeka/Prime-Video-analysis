@@ -23,6 +23,10 @@ This project analyzes the vast catalog of Amazon Prime Video, one of the leading
 3. **Text-Based Matching**:
    - Leveraged text similarity techniques to group similar titles by genres, keywords, and descriptions.
 
+## Dashboard
+![Prime Video](https://github.com/user-attachments/assets/a212dc53-b2e1-48af-b8b0-497d7e73b592)
+
+
 ## Results
 1. **Content Distribution**:
    - Movies make up a majority (approximately 81%) of the titles, with TV shows accounting for 19%.
